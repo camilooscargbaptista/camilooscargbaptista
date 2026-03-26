@@ -164,12 +164,17 @@ Practices     Domain-Driven Design · Event Sourcing · CQRS · C4 Architecture
 
 ### 📊 GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=camilooscargbaptista&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&ring_color=8B5CF6" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilooscargbaptista&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camilooscargbaptista&theme=github_dark" width="75%" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=camilooscargbaptista&theme=github-dark-blue&hide_border=true&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6" width="60%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=camilooscargbaptista&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camilooscargbaptista&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=camilooscargbaptista&theme=github_dark&utcOffset=-3" width="32%" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=camilooscargbaptista&theme=github-dark-blue&hide_border=true&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6" width="55%" />
 
 </div>
 
